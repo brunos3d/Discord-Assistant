@@ -1,0 +1,16 @@
+{
+  "name": "discord-assistant",
+  "version": "1.0.0",
+  "description": "An implementation of Google Assistant for Discord using Bots",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bruno Silva",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^11.5.0",
+    "google-maps-image-api": "^1.0.3",
+    "nodemon": "^1.19.0"
+  }
+}
