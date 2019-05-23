@@ -23,7 +23,9 @@ We will add the Bot to the server, for this, after creating the Bot:
 6. In the left corner of the screen, click the "General information" tab.
 7. Copy the "Client ID" and add in the place where "YOURBOTID" is written in the following link
 
+
 	https://discordapp.com/oauth2/authorize?&client_id=YOURBOTID&scope=bot&permissions=8
+
 
 9. Paste the link into a new tab and hit enter.
 
