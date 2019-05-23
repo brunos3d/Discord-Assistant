@@ -1,5 +1,13 @@
 # Discord-Assistant
 
+### Installing the project
+
+Just clone or download the project, open your favorite Command Prompt and enter the command below:
+
+	npm i
+
+### Creating our BOT
+
 You will need to have / create an application in Discord, the process is very fast (*I was impressed by the ease of integration of the tool myself*).
 
 1. To create the application between [this link] (https://discordapp.com/developers/applications/).
