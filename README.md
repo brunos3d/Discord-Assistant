@@ -36,6 +36,10 @@ We will add the Bot to a server now:
 
 ### PROGRAMMING OUR BOT!
 
+The documentation can be found here:
+
+	https://discord.js.org
+
 Basically you'll need the name of your **text channel**, name of your **voice channel**, your user's tag and **TOKEN's Bot**.
 The TOKEN you can pick up the same place where you created the application and the Bot for your Discord, the names of the servers and your user tag you can find in the general interface of the Discord just by clicking the dirento button on top of the server and copy the ID.
 
